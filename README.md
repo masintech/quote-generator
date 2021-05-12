@@ -1,0 +1,2 @@
+# quote-generator
+javascript project
